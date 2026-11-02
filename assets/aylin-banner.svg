@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335" role="img" aria-label="Aylin Hosseinpour Barzegar">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10131e"/>
+      <stop offset="65%" stop-color="#131b2d"/>
+      <stop offset="100%" stop-color="#1a1635"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#46e5f7"/>
+      <stop offset="100%" stop-color="#ae78f9"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39d7e7"/>
+      <stop offset="55%" stop-color="#548aec"/>
+      <stop offset="100%" stop-color="#a65ef4"/>
+    </linearGradient>
+    <linearGradient id="fillwave" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a65ef4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#548aec" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="335" rx="17" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="333" rx="16" fill="none" stroke="#3c455d" stroke-width="2"/>
+  <rect x="64" y="70" width="6" height="92" rx="3" fill="url(#accent)"/>
+
+  <text x="93" y="110" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f7f7ff">Aylin Hosseinpour Barzegar</text>
+  <text x="96" y="152" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#b9c7dd">M.Sc. Student  |  AI &amp; Machine Learning  |  Cybersecurity</text>
+  <text x="96" y="186" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#c9b8ff">Distributed Systems  &amp;  Intelligent Networks</text>
+
+  <path d="M0 265 C175 236 250 280 394 296 C535 315 640 252 795 258 C962 266 1040 223 1200 242 L1200 335 L0 335 Z" fill="url(#fillwave)"/>
+  <path d="M0 265 C175 236 250 280 394 296 C535 315 640 252 795 258 C962 266 1040 223 1200 242" fill="none" stroke="url(#wave)" stroke-width="3" opacity="0.9"/>
+  <path d="M0 282 C170 258 247 302 391 310 C545 318 675 272 814 276 C952 282 1081 244 1200 265" fill="none" stroke="#9a83f7" stroke-width="1.5" opacity="0.36"/>
+
+  <circle cx="1033" cy="89" r="3" fill="#36cced" opacity="0.8"/>
+  <circle cx="1087" cy="116" r="5" fill="#866cef" opacity="0.6"/>
+  <circle cx="1123" cy="72" r="3" fill="#a65ef4" opacity="0.7"/>
+  <path d="M1033 89 L1087 116 L1123 72" fill="none" stroke="#6d7fd9" stroke-width="1" opacity="0.6"/>
+</svg>
