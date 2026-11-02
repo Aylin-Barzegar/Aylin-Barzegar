@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://aylin-barzegar.github.io/"><img alt="Visit website" src="https://img.shields.io/badge/Visit_Website-39D7E7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101722" /></a>
-<a href="./assets/Aylin_Barzegar_CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download_CV-A65EF4?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/18dUplKFA_99JNBsVyJ1P7KvkMic8n2uP/view?usp=drive_link"><img alt="Download CV" src="https://img.shields.io/badge/Download_CV-A65EF4?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aylin-hosseinpour-barzegar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-548AEC?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="mailto:aylin.h.barzegar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-6557BA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
