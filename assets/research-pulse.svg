@@ -20,7 +20,7 @@
   </circle>
 
   <text x="74" y="51" fill="#B9C9E1" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="3" font-weight="700">CURRENT FOCUS</text>
-  <text x="52" y="93" fill="#F0F5FF" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700">AI & Machine Learning • Cybersecurity • Distributed Systems</text>
+  <text x="52" y="93" fill="#F0F5FF" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700">AI-Machine Learning • Cybersecurity • Distributed Systems</text>
 
   <path d="M52 119 C260 98 412 137 601 120 S966 106 1148 120" fill="none" stroke="url(#track)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
 
