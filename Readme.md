@@ -14,8 +14,6 @@
 <a href="https://www.linkedin.com/in/aylin-hosseinpour-barzegar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-548AEC?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
 <a href="mailto:aylin.h.barzegar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-6557BA?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
-<sub>AI & Machine Learning · Cybersecurity · Distributed Systems · Intelligent Networks</sub>
-
 </div>
 
 ---
