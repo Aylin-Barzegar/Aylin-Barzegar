@@ -46,7 +46,7 @@ My research interests lie at the intersection of **Artificial Intelligence, Mach
   <img
     src="./assets/pink-dino-walk.gif"
     alt="Pink dinosaur walking"
-    width="180"
+    width="220"
   />
 </div>
 
