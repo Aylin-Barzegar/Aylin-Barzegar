@@ -27,7 +27,6 @@ I'm an **M.Sc. student in Computer Science and Engineering (Software Engineering
 My research interests lie at the intersection of **Artificial Intelligence, Machine Learning, Cybersecurity, and Distributed Systems**, with a focus on developing secure, reliable, and adaptive intelligent systems.
 
 <br>
-<br>
 
 ### 💜 Technical Skills
 
@@ -66,6 +65,8 @@ My research interests lie at the intersection of **Artificial Intelligence, Mach
 | **M.Sc. in Computer Science and Engineering – Software Engineering** (2025–Summer 2027, expected) | University of Tabriz | **3.8 / 4.0** |
 | **B.Sc. in Computer Engineering** (2021–2025) | Islamic Azad University, Tehran | **3.7 / 4.0** |
 
+<br>
+
 ### 💜 Research & Publications
 
 **🟣 Research in Progress**
@@ -84,13 +85,15 @@ My research interests lie at the intersection of **Artificial Intelligence, Mach
 - **The Importance of Using User Data in Building Intelligent Recommender Systems for Providing Personalized Services.**  
   *National Conference on New Technologies in Electrical, Computer, and Mechanical Engineering of Iran — Accepted (2024).*
 
+<br>
+
 ### 🩵 Teaching Experience
 
 **Teaching Assistant | 2024–2025**  
 Department of Computer Engineering, Islamic Azad University, Tehran, Iran.
 
 Assisted in teaching Software Engineering, Software Testing, Systems Design and Analysis, Human–Computer Interaction (HCI), and Formal Methods in Software Engineering.
-
+<br>
 <details>
 <summary><b>✨ Selected Coursework & Languages</b></summary>
 
