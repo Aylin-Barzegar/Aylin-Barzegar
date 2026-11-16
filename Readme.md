@@ -4,9 +4,11 @@
 <img src="./assets/aylin-banner.svg" alt="Aylin Hosseinpour Barzegar — AI, Cybersecurity and Distributed Systems" width="100%" />
 
 <br>
+<br>
 
 <img src="./assets/research-pulse.svg" alt="Research focus: Secure, Intelligent and Adaptive Systems" width="100%" />
 
+<br>
 <br>
 
 <a href="https://aylin-barzegar.github.io/"><img alt="Visit website" src="https://img.shields.io/badge/Visit_Website-39D7E7?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=101722" /></a>
@@ -23,6 +25,9 @@
 I'm an **M.Sc. student in Computer Science and Engineering (Software Engineering)** at the **University of Tabriz**, with a B.Sc. in Computer Engineering.
 
 My research interests lie at the intersection of **Artificial Intelligence, Machine Learning, Cybersecurity, and Distributed Systems**, with a focus on developing secure, reliable, and adaptive intelligent systems.
+
+<br>
+<br>
 
 ### 💜 Technical Skills
 
