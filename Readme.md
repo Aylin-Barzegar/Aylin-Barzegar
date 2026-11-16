@@ -38,6 +38,18 @@ My research interests lie at the intersection of **Artificial Intelligence, Mach
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-175E77?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-425FBA?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-725AB9?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-466FBA?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-175E77?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-725AB9?style=flat-square&logo=jupyter&logoColor=white)
 
+
+<div align="center">
+
+  <img
+    src="./assets/pink-dino-walk.gif"
+    alt="Pink dinosaur walking"
+    width="100%"
+  />
+
+</div>
+
+
 ### 🩵 Education
 
 | Degree | Institution | GPA |
